@@ -2,7 +2,7 @@
 
 ### Daniel Cabral Arnaud
 
-|**Tipo de Projeto**|**Qtde de imagens por classe**|**Qtde de classes**|
+|**Tipo de Projeto**|**Qtde de Imagens por Classe**|**Qtde de Classes**|
 |--|--|--|
 Classificação de Imagens| 75 | 4 |
 
