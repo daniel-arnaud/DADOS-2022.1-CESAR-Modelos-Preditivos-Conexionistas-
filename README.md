@@ -6,6 +6,7 @@
 |--|--|--|
 Classificação de Imagens| 75 | 4 |
 
+<br>
 
 ### Projeto de classificação de imagens de animais, dentre eles: Cachorro, Lobo, Gato e Tigre
 
