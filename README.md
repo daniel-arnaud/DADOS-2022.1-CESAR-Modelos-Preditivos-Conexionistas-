@@ -16,7 +16,6 @@ Classificação de Imagens| 75 | 4 |
 |--|--|--|
 |Classificação de Imagens|YOLOv5|PyTorch|
 
-<br>
 
 ## Performance
 
