@@ -4,17 +4,13 @@
 
 <br>
 
-|**Tipo de Projeto**|**Qtde. de Imagens por Classe**|**Qtde. de Classes**|
+|**Tipo de Projeto**|**Qtde. de Imagens por Classe**|**Qtde. de Classes**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-Classificação de Imagens| 75 | 4 |
+Classificação de Imagens| 75 | 4 |YOLOv5|PyTorch|
 
 ### Projeto de classificação de imagens de animais, dentre eles: Cachorro, Lobo, Gato e Tigre
 
 <br>
-
-|**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
-|--|--|--|
-|Classificação de Imagens|YOLOv5|PyTorch|
 
 
 ## Performance
