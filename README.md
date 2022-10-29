@@ -6,6 +6,7 @@
 |--|--|--|
 Classificação de Imagens| 75 | 4 |
 
+//
 
 ### Projeto de classificação de imagens de animais, dentre eles: Cachorro, Lobo, Gato e Tigre
 
@@ -13,9 +14,12 @@ Classificação de Imagens| 75 | 4 |
 |--|--|--|
 |Classificação de Imagens|YOLOv5|PyTorch|
 
+//
+
 ## Performance
 
 O modelo treinado possui performance de **??%**.
+//
 
 ### Output do bloco de treinamento
 
