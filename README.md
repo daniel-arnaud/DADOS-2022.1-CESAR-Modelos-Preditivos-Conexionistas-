@@ -15,7 +15,7 @@ Classificação de Imagens| 75 | 4 |ResNet34|PyTorch|
 
 ## Performance
 
-O modelo treinado possui performance de **??%**.
+O modelo treinado possui performance de **90%**.
 //
 
 ### Output do bloco de treinamento
